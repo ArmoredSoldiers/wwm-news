@@ -1,16 +1,5 @@
 [
   {
-    "messageId": "1469305023681790174",
-    "title": "Server Maintenance Notice",
-    "highlight": "Discord",
-    "text": "# Server Maintenance Notice\nTime: <t:1770375600:s>–<t:1770377400:s> @Game Updates \n\nThe server will be offline for maintenance during this 30-minute window. During this time, login and gameplay will be unavailable. We expect to be back online by <t:1770377400:S> which is <t:1770377400:R> . We will post updates if the maintenance window changes. We apologize for the inconvenience this may cause and thank you for your patience and understanding.",
-    "date": "2026. 02. 06.",
-    "author": "armoredsoldiers",
-    "images": [
-      "https://armoredsoldiers.github.io/wwm-news/default.jpg"
-    ]
-  },
-  {
     "messageId": "1469241789088137319",
     "title": "Bugfixes on Feb 6",
     "highlight": "Discord",
