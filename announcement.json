@@ -1,5 +1,16 @@
 [
   {
+    "messageId": "1469284731857404017",
+    "title": "Server Maintenance Notice",
+    "highlight": "Discord",
+    "text": "# Server Maintenance Notice\nTime: <ts>–<ts> @Game Updates \n\nThe server will be offline for maintenance during this 30-minute window. During this time, login and gameplay will be unavailable. We expect to be back online by <tS> which is <tR> . We will post updates if the maintenance window changes. We apologize for the inconvenience this may cause and thank you for your patience and understanding.",
+    "date": "2026. 02. 06.",
+    "author": "Where Winds Meet #game-announcement",
+    "images": [
+      "https://armoredsoldiers.github.io/wwm-news/default.jpg"
+    ]
+  },
+  {
     "messageId": "1469241789088137319",
     "title": "Bugfixes on Feb 6",
     "highlight": "Discord",
