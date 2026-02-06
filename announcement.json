@@ -1,5 +1,16 @@
 [
   {
+    "messageId": "1469241789088137319",
+    "title": "Bugfixes on Feb 6",
+    "highlight": "Discord",
+    "text": "Bugfixes on Feb 6\nThe issue with patch update stalling at 90% has been fixed. If the issue persists, please exit the game and install the latest patch via your platform.\n\nThe Epic/GeForce login issue will be fixed by <ts>. Thank you for your understanding.",
+    "date": "2026. 02. 06.",
+    "author": "Where Winds Meet #game-announcement",
+    "images": [
+      "https://armoredsoldiers.github.io/wwm-news/default.jpg"
+    ]
+  },
+  {
     "messageId": "1469206820030648333",
     "title": "Hey @Game Updates",
     "highlight": "Discord",
