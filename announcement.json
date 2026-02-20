@@ -9,16 +9,5 @@
     "images": [
       "https://armoredsoldiers.github.io/wwm-news/default.jpg"
     ]
-  },
-  {
-    "messageId": "1469206820030648333",
-    "title": "Hey @Game Updates",
-    "highlight": "Discord",
-    "text": "Hey @Game Updates \n\nWe are aware of an issue affecting the login process and are actively working to resolve it as quickly as possible.\n\nAdditionally, there is a bug that may leave your character stuck if you use the ⁨⁨`\"exit\"`⁩⁩ to leave a duty or open-world instance. For now, please be cautious about using the exit button after matchmaking or going into the open world. \n\nWe sincerely apologize for the inconvenience and thank you for your patience and support.",
-    "date": "2026. 02. 06.",
-    "author": "Where Winds Meet #game-announcement",
-    "images": [
-      "https://cdn.discordapp.com/attachments/1180050849574178846/1469205030379716701/image.png?ex=6986cf4f&is=69857dcf&hm=22ff7667bde75f10dfccd8c038b42fda5946f3a3cbbc0004679ed07cbf122d6b&"
-    ]
   }
 ]
